@@ -131,9 +131,11 @@ Investing Navigator · Investment Assistant · Portfolio Planning · Financial E
 | NPM | https://npmjs.com/package/@get-on-investing/investing-navigator |
 | PyPI | https://pypi.org/project/investing-navigator |
 | Hugging Face | https://huggingface.co/datasets/get-on-investing/investing-navigator-benchmarks |
-| Kaggle | https://kaggle.com/datasets/getoninvesting/investing-navigator-benchmarks |
 | Zenodo | https://zenodo.org/records/21646993 |
 | Docs | https://investing-navigator.readthedocs.io |
+| SlideShare | https://www.slideshare.net/slideshow/get-on-investing-how-to-secure-editorial-placement-on-top-finance-platforms/288859748 |
+| Quora | https://www.quora.com/profile/Get-On-Investing |
+
 
 ## About GetOnInvesting.com
 
