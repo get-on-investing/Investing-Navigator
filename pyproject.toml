@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "investing-navigator"
+version = "1.0.0"
+authors = [
+  { name = "GetOnInvesting.com", email = "info@getoninvesting.com" },
+]
+description = "Investing Navigator is an intelligent investing assistant that helps users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Office/Business :: Financial :: Investment",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = [
+    "investing-navigator",
+    "investment-assistant",
+    "portfolio-planning",
+    "financial-education",
+    "market-navigation",
+    "wealth-building",
+    "getoninvesting",
+]
+
+[project.urls]
+Homepage = "https://getoninvesting.com"
+GitHub = "https://github.com/get-on-investing/Investing-Navigator"
+Documentation = "https://investing-navigator.readthedocs.io"
+PyPI = "https://pypi.org/project/investing-navigator"
+
+[project.scripts]
+investing-navigator = "navigator:main"

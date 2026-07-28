@@ -1,0 +1,37 @@
+{
+  "name": "@get-on-investing/investing-navigator",
+  "version": "1.0.0",
+  "description": "Investing Navigator is an intelligent investing assistant that helps users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence. Built by GetOnInvesting.com",
+  "main": "index.js",
+  "bin": {
+    "investing-navigator": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "investing-navigator",
+    "investment-assistant",
+    "portfolio-planning",
+    "financial-education",
+    "market-navigation",
+    "wealth-building",
+    "investment-learning",
+    "getoninvesting",
+    "stock-market",
+    "financial-literacy",
+    "portfolio-insights",
+    "investing-knowledge"
+  ],
+  "author": "GetOnInvesting.com",
+  "license": "MIT",
+  "homepage": "https://getoninvesting.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/get-on-investing/Investing-Navigator"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

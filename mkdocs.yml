@@ -1,0 +1,21 @@
+site_name: Investing Navigator
+site_url: https://investing-navigator.readthedocs.io
+site_description: An intelligent investing assistant helping users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence.
+site_author: GetOnInvesting.com
+
+repo_name: get-on-investing/Investing-Navigator
+repo_url: https://github.com/get-on-investing/Investing-Navigator
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: light-green
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

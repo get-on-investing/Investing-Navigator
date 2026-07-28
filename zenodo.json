@@ -1,0 +1,55 @@
+{
+  "title": "Investing Navigator",
+  "description": "Investing Navigator is an intelligent investing assistant from Get On Investing that helps users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence. Built by GetOnInvesting.com.",
+  "creators": [
+    {
+      "name": "GetOnInvesting.com"
+    }
+  ],
+  "keywords": [
+    "investing navigator",
+    "investment assistant",
+    "portfolio planning",
+    "financial education",
+    "market navigation",
+    "wealth building",
+    "investment learning",
+    "GetOnInvesting"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/get-on-investing/Investing-Navigator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://getoninvesting.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@get-on-investing/investing-navigator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/investing-navigator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/get-on-investing/investing-navigator-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/getoninvesting/investing-navigator-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

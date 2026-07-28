@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Investing Navigator",
+  "description": "An intelligent investing assistant that helps users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence.",
+  "url": "https://getoninvesting.com",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "GetOnInvesting.com",
+    "url": "https://getoninvesting.com",
+    "sameAs": [
+      "https://getoninvesting.com",
+      "https://github.com/get-on-investing",
+      "https://npmjs.com/package/@get-on-investing/investing-navigator",
+      "https://pypi.org/project/investing-navigator",
+      "https://huggingface.co/datasets/get-on-investing/investing-navigator-benchmarks",
+      "https://kaggle.com/datasets/getoninvesting/investing-navigator-benchmarks",
+      "https://get-on-investing.github.io/Investing-Navigator/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/get-on-investing/Investing-Navigator",
+  "keywords": [
+    "investing navigator",
+    "investment assistant",
+    "portfolio planning",
+    "financial education",
+    "market navigation",
+    "wealth building",
+    "investment learning",
+    "GetOnInvesting"
+  ]
+}
