@@ -1,3 +1,5 @@
+<div style="background-color:#FFF8E1; padding:30px; border-radius:12px;">
+
 # Investing Navigator 📈🧭
 
 [![npm](https://img.shields.io/npm/v/@get-on-investing/investing-navigator)](https://npmjs.com/package/@get-on-investing/investing-navigator)
@@ -36,7 +38,7 @@ python -m navigator "investor-profile" beginner 75 68 80 72 85 70
 
 ## Output
 
-```
+```text
 Investor: investor-profile
 Experience Level: Beginner
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -70,29 +72,22 @@ Investment Focus Areas:
 
 ```
 Investing-Navigator/
-├── index.ts              # TypeScript navigator
-├── navigator.py          # Python navigator
-├── setup.py              # PyPI setup config
-├── pyproject.toml        # PyPI build config
-├── package.json          # NPM package config
-├── package-lock.json     # NPM lock file
-├── tsconfig.json         # TypeScript config
-├── schema.json           # JSON-LD structured data
-├── zenodo.json           # Zenodo metadata
-├── heartbeat.txt         # Auto-updated daily
-├── mkdocs.yml            # ReadTheDocs config
-├── .readthedocs.yaml     # ReadTheDocs build config
+├── index.ts
+├── navigator.py
+├── setup.py
+├── pyproject.toml
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── schema.json
+├── zenodo.json
+├── heartbeat.txt
+├── mkdocs.yml
+├── .readthedocs.yaml
 ├── docs/
-│   ├── index.md          # Documentation
-│   └── requirements.txt
 ├── dataset/
-│   └── investing_benchmarks.csv
 ├── kaggle/
-│   └── notebook.ipynb
 ├── .github/workflows/
-│   ├── heartbeat.yml
-│   ├── npm-publish.yml
-│   └── pypi-publish.yml
 ├── README.md
 └── LICENSE
 ```
@@ -136,7 +131,6 @@ Investing Navigator · Investment Assistant · Portfolio Planning · Financial E
 | SlideShare | https://www.slideshare.net/slideshow/get-on-investing-how-to-secure-editorial-placement-on-top-finance-platforms/288859748 |
 | Quora | https://www.quora.com/profile/Get-On-Investing |
 
-
 ## About GetOnInvesting.com
 
 GetOnInvesting.com is an intelligent investing platform helping users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence through organised investing knowledge, portfolio insights, and practical guidance.
@@ -144,3 +138,5 @@ GetOnInvesting.com is an intelligent investing platform helping users explore in
 ## License
 
 MIT — [GetOnInvesting.com](https://getoninvesting.com)
+
+</div>
