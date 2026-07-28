@@ -19,13 +19,19 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.21646993",
   "related_identifiers": [
     {
       "identifier": "https://github.com/get-on-investing/Investing-Navigator",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
+    {
+  "identifier": "https://zenodo.org/records/21646993",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+}
+    
     {
       "identifier": "https://getoninvesting.com",
       "relation": "isDocumentedBy",
