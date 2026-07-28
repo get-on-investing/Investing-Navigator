@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@get-on-investing/investing-navigator)](https://npmjs.com/package/@get-on-investing/investing-navigator)
 [![PyPI](https://img.shields.io/pypi/v/investing-navigator)](https://pypi.org/project/investing-navigator)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21646993.svg)](https://doi.org/10.5281/zenodo.21646993)
 
 Investing Navigator is an intelligent investing assistant from Get On Investing that helps users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence. Built by [GetOnInvesting.com](https://getoninvesting.com).
 
@@ -132,7 +132,7 @@ Investing Navigator · Investment Assistant · Portfolio Planning · Financial E
 | PyPI | https://pypi.org/project/investing-navigator |
 | Hugging Face | https://huggingface.co/datasets/get-on-investing/investing-navigator-benchmarks |
 | Kaggle | https://kaggle.com/datasets/getoninvesting/investing-navigator-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21646993 |
 | Docs | https://investing-navigator.readthedocs.io |
 
 ## About GetOnInvesting.com
